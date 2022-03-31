@@ -1,0 +1,6 @@
+# News
+......
+gh-pages--> a subtree of our master branch. 
+The prefix option specifies the folder that we want for our the subtree. 
+If we take a look at our gh-pages branch, we will see that it is equivalent to being the root of the dist folder.
+......
